@@ -57,6 +57,6 @@ object SearchEngine {
 
 
     // Following is the multiple term search using cosine similarity:
-    
+
   }
 }
