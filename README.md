@@ -7,5 +7,8 @@ tf_idf algorithm as a search engine
   * The input search terms are stored in ./file/search_terms.txt. Each row is treated as a single term search.
   * Documents searched are stored in ./file/plot_summaries.txt. Take 5 movies with highest td-idf value as search results.
   * Outputs:
-  <image src="images/moviesRank1.PNG width=%60" />
+  <image src="images/moviesRank1.PNG" width=%40 />
+  <image src="images/moviesRank2.PNG" width=%40 />
+  <image src="images/moviesRank3.PNG" width=%40 />
+  <image src="images/moviesRank4.PNG" width=%40 />
   
