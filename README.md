@@ -12,3 +12,8 @@ tf_idf algorithm as a search engine
   <image src="images/moviesRank3.PNG" width=%40 />
   <image src="images/moviesRank4.PNG" width=%40 />
   
+
+* tf-idf equations:
+<image src="images/tf.jpg" width=%40 />
+<image src="images/idf.jpg" width=%40 />
+<image src="images/tf_idf.png" width=%40 />
