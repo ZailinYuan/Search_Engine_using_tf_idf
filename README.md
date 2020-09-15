@@ -2,7 +2,7 @@
 tf_idf algorithm as a search engine
 
 * Spark sbt based
-* RDD used
+* RDD used, no DataFrame with this project
 
 * Single term search
   * The input search terms are stored in ./file/search_terms.txt. Each row is treated as a single term search.
